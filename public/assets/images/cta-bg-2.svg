@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 439.5">
+  <defs>
+    <style>
+      .c {
+        fill: url(#b);
+        stroke-width: 0px;
+      }
+    </style>
+    <radialGradient id="b" cx="1018" cy="101" fx="1018" fy="101" r="438.46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#28afbf"/>
+      <stop offset="1" stop-color="#127acc"/>
+    </radialGradient>
+  </defs>
+  <path class="c" d="m0,0v400c323.25,61.64,556.17,42.02,721,3,11.48-2.72,16.68-4.12,29-7,253.43-59.23,463.28-28.84,616,16V0H0Z"/>
+</svg>
